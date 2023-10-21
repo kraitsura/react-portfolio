@@ -1,14 +1,14 @@
 import React from 'react'
 import './port.css'
-import port1 from '../../assets/port1.jpeg'
+import port1 from '../../assets/port1.png'
 
 const data = [
   {
     id: 1,
     image: port1,
-    title: 'Title',
+    title: 'MERN-stack Movie Database',
     github: 'https://github.com',
-    demo: 'https://github.com'
+    demo: 'https://krait-films.vercel.app/'
   }
 ]
 
