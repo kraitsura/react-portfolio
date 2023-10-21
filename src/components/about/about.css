@@ -19,7 +19,7 @@
 }
 
 .about__image {
-    border-radius: 0.5rem;
+    border-radius: 10rem;
     height:100%;
     overflow: hidden;
     transform: rotate(10deg);
