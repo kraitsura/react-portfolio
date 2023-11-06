@@ -22,23 +22,22 @@ const About = () => {
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
               <h5>Experience</h5>
-              <small>1 Year of Programming practice, with full-stack project development experience </small>
+              <small>1 Year of Programming Experience, Full-stack project development </small>
             </article>
 
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
               <h5>Education</h5>
-              <small>Bachelor of Science: CS</small>
+              <small>Bachelor of Science: CS\nIBDP Diploma</small>
             </article>
 
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
               <h5>Leadership</h5>
-              <small>Lead Student Representative at New Student Programs in</small>
+              <small>Lead Student Representative at New Student Programs ASU</small>
             </article>
           </div>
 
-          <p>Diverse Skillset</p>
           <a href="#contact" className='button button-prime'>Let's Talk</a>
         </div>
       </div>
