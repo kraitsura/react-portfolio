@@ -2,6 +2,8 @@ import React from 'react'
 import './about.css'
 import ME2 from '../../assets/ME2.JPG'
 import {FaPeopleGroup} from 'react-icons/fa6'
+import {FaUserGraduate} from 'react-icons/fa'
+import {GiToolbox} from "react-icons/gi"
 
 const About = () => {
   return (
@@ -26,13 +28,13 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <FaPeopleGroup className="aboutIcon"/>
+              <FaUserGraduate className="aboutIcon"/>
               <h5>Education</h5>
               <small>Bachelor of Science: CS\nIBDP Diploma</small>
             </article>
 
             <article className='about__card'>
-              <FaPeopleGroup className="aboutIcon"/>
+              <GiToolbox className="aboutIcon"/>
               <h5>Leadership</h5>
               <small>Lead Student Representative at New Student Programs ASU</small>
             </article>
