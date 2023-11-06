@@ -30,8 +30,10 @@ const About = () => {
             <article className='about__card'>
               <FaUserGraduate className="aboutIcon"/>
               <h5>Education</h5>
-              <small>Bachelor of Science: CS</small>
-              <small>IBDP Diploma</small>
+              <small>
+                <p>Bachelor of Science: CS</p>
+                <p>IBDP Diploma</p>
+              </small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +42,7 @@ const About = () => {
               <small>Lead Student Representative at New Student Programs ASU</small>
             </article>
           </div>
-          <p>Multitalented with Drive and sense of Ownership for the work I do</p>
+          <p>Multitalented Individual with strong Drive and a sense of Ownership for the work I do</p>
           <a href="#contact" className='button button-prime'>Let's Talk</a>
         </div>
       </div>
