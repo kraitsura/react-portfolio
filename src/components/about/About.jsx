@@ -40,7 +40,7 @@ const About = () => {
               <small>Lead Student Representative at New Student Programs ASU</small>
             </article>
           </div>
-
+          <p>Multitalented with Drive and sense of Ownership for the work I do</p>
           <a href="#contact" className='button button-prime'>Let's Talk</a>
         </div>
       </div>
