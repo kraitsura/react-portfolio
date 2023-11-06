@@ -54,7 +54,16 @@ const Experience = () => {
                   Fairly Profecient
                 </small>
               </div>
-              
+            </article>
+
+            <article className="card_details">
+              <PiSealCheckFill className="card-icon" />
+              <div>
+                <h4>Streamlit</h4>
+                <small className="subtext">
+                  Fairly Profecient
+                </small>
+              </div>
             </article>
             
           </div>
