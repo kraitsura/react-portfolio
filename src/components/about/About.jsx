@@ -22,19 +22,19 @@ const About = () => {
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
               <h5>Experience</h5>
-              <small>1 Year of Programming Experience</small>
+              <small>1 Year of Programming practice, with full-stack project development experience </small>
             </article>
 
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
-              <h5>Experience</h5>
-              <small>1 Year of Programming Experience</small>
+              <h5>Education</h5>
+              <small>Bachelor of Science: CS</small>
             </article>
 
             <article className='about__card'>
               <FaPeopleGroup className="aboutIcon"/>
-              <h5>Experience</h5>
-              <small>1 Year of Programming Experience</small>
+              <h5>Leadership</h5>
+              <small>Lead Student Representative at New Student Programs in</small>
             </article>
           </div>
 
