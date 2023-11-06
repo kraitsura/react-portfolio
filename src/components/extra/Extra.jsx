@@ -1,7 +1,8 @@
 import React from 'react'
 import './extra.css'
 import extra1 from '../../assets/extra1.JPG'
-import amaaris from '../../assets/amaaris.jpg'
+import amaaris from '../../assets/amaaris.png'
+import club from '../../assets/club.jpeg'
 import {TfiMoreAlt} from 'react-icons/tfi'
 
 // Import Swiper React components
@@ -26,7 +27,7 @@ const data = [
     more: 'https://www.instagram.com/rodrickrules___/'
   },
   {
-    image: extra1,
+    image: club,
     activity: 'Coding Club',
     description: 'Small Leet Code community to solve problems together.',
     more: ''
