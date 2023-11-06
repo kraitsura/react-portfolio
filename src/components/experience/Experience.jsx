@@ -118,6 +118,16 @@ const Experience = () => {
               <div>
                 <h4>Leadership</h4>
                 <small className="subtext">
+                Experienced
+                </small>
+              </div>
+            </article>
+
+            <article className="card_details">
+              <PiSealCheckFill className="card-icon" />
+              <div>
+                <h4>Conflict Resolution</h4>
+                <small className="subtext">
                   Experienced
                 </small>
               </div>
@@ -126,7 +136,7 @@ const Experience = () => {
             <article className="card_details">
               <PiSealCheckFill className="card-icon" />
               <div>
-                <h4>Conflict Management</h4>
+                <h4>Team Management</h4>
                 <small className="subtext">
                   Fairly Profecient
                 </small>
@@ -136,19 +146,9 @@ const Experience = () => {
             <article className="card_details">
               <PiSealCheckFill className="card-icon" />
               <div>
-                <h4>Python</h4>
+                <h4>Event Coordination</h4>
                 <small className="subtext">
-                  Fairly Profecient
-                </small>
-              </div>
-            </article>
-
-            <article className="card_details">
-              <PiSealCheckFill className="card-icon" />
-              <div>
-                <h4>C++</h4>
-                <small className="subtext">
-                  Fairly Profecient
+                  Experienced
                 </small>
               </div>
             </article>
