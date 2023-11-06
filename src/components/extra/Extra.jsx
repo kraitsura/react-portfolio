@@ -1,6 +1,7 @@
 import React from 'react'
 import './extra.css'
 import extra1 from '../../assets/extra1.JPG'
+import amaaris from '../../assets/amaaris.jpg'
 import {TfiMoreAlt} from 'react-icons/tfi'
 
 // Import Swiper React components
@@ -13,22 +14,22 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    image: extra1,
-    activity: 'name',
-    description: 'dasdasd',
-    more: 'https://github.com'
+    image: amaaris,
+    activity: 'Amaaris',
+    description: 'NGO I formed with my friends. View More Below.',
+    more: 'https://www.instagram.com/amaarisfoundation/'
   },
   {
     image: extra1,
-    activity: 'name',
-    description: 'dasdasd',
-    more: 'https://github.com'
+    activity: 'Photography',
+    description: 'A big part of my creative activites. View More Below.',
+    more: 'https://www.instagram.com/rodrickrules___/'
   },
   {
     image: extra1,
-    activity: 'name',
-    description: 'dasdasd',
-    more: 'https://github.com'
+    activity: 'Coding Club',
+    description: 'Small Leet Code community to solve problems together.',
+    more: ''
   }
 ]
 
