@@ -30,7 +30,7 @@ const About = () => {
             <article className='about__card'>
               <FaUserGraduate className="aboutIcon"/>
               <h5>Education</h5>
-              <small>Bachelor of Science: CS</small>\n
+              <small>Bachelor of Science: CS</small>
               <small>IBDP Diploma</small>
             </article>
 
