@@ -22,7 +22,7 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <FaPeopleGroup className="aboutIcon"/>
+              <GiToolbox className="aboutIcon"/>
               <h5>Experience</h5>
               <small>1 Year of Programming Experience, Full-stack project development </small>
             </article>
@@ -30,11 +30,12 @@ const About = () => {
             <article className='about__card'>
               <FaUserGraduate className="aboutIcon"/>
               <h5>Education</h5>
-              <small>Bachelor of Science: CS\nIBDP Diploma</small>
+              <small>Bachelor of Science: CS</small>\n
+              <small>IBDP Diploma</small>
             </article>
 
             <article className='about__card'>
-              <GiToolbox className="aboutIcon"/>
+              <FaPeopleGroup className="aboutIcon"/>
               <h5>Leadership</h5>
               <small>Lead Student Representative at New Student Programs ASU</small>
             </article>
