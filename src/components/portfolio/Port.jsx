@@ -1,14 +1,22 @@
 import React from 'react'
 import './port.css'
 import port1 from '../../assets/port1.png'
+import port2 from '../../assets/girl.png'
 
 const data = [
   {
     id: 1,
     image: port1,
     title: 'MERN-stack Movie Database',
-    github: 'https://github.com',
+    github: 'https://github.com/kraitsura/MovieHub',
     demo: 'https://krait-films-6zq88j83e-kraitsuras-projects.vercel.app/'
+  },
+  {
+    id: 2,
+    image: port2,
+    title: 'Electron React TS Desktop App',
+    github: 'https://github.com/kraitsura/levels',
+    demo: ''
   }
 ]
 
