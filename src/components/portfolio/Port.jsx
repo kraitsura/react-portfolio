@@ -8,7 +8,7 @@ const data = [
     image: port1,
     title: 'MERN-stack Movie Database',
     github: 'https://github.com',
-    demo: 'https://krait-films.vercel.app/'
+    demo: 'https://krait-films-6zq88j83e-kraitsuras-projects.vercel.app/'
   }
 ]
 
