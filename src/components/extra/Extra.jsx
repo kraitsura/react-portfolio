@@ -24,7 +24,7 @@ const data = [
     image: extra1,
     activity: 'Photography',
     description: 'A big part of my creative activites. View More Below.',
-    more: 'https://www.instagram.com/rodrickrules___/'
+    more: 'https://www.instagram.com/kraitsura/'
   },
   {
     image: club,
