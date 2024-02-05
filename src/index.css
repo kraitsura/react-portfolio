@@ -11,9 +11,9 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
+    --color-bg: radial-gradient(circle, rgba(2,0,36,1) 20%, rgba(5,4,76,1) 20%, rgba(108,1,1,1) 95%, rgba(199,6,31,1) 100%, rgba(34,0,8,1) 100%);
     --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
+    --color-primary: #cb3131;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
