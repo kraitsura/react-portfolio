@@ -14,7 +14,6 @@ const App = () => {
     
     <Header></Header>
     <Nav></Nav>
-    <About></About>
     <Experience></Experience>
     <Port></Port>
     <Extra></Extra>
